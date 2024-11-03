@@ -18,6 +18,5 @@ Conclusion
 
 This breast cancer classification model showcases the potential of machine learning in medical diagnostics. By automating the analysis of diagnostic features, it provides a reliable second opinion that could assist healthcare professionals in early cancer detection. Future improvements could include expanding the dataset, refining feature selection, and deploying the model for real-time diagnostic support.
 
-Let me know if you'd like to expand on any section or focus more on technical aspects.
 
 
